@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "9BV2H3J4TD.com.neox.iosapp.dev"
+        ],
+        "components": [
+          {
+            "/": "/open/*"
+          }
+        ]
+      }
+    ]
+  }
+}
